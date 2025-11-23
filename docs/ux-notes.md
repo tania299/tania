@@ -8,3 +8,5 @@
 
 - Always show where the user is in a flow.
 
+- Provide a clear escape or cancel action.
+
