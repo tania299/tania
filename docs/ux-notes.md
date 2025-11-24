@@ -10,3 +10,5 @@
 
 - Provide a clear escape or cancel action.
 
+- Use inline hints instead of long instructions.
+
