@@ -12,3 +12,5 @@
 
 - Use inline hints instead of long instructions.
 
+- Make primary actions visually stronger than secondary.
+
