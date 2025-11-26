@@ -14,3 +14,5 @@
 
 - Make primary actions visually stronger than secondary.
 
+- Keep copy short, direct, and honest.
+
