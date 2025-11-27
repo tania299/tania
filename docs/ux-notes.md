@@ -16,3 +16,5 @@
 
 - Keep copy short, direct, and honest.
 
+- Keep components focused on a single responsibility.
+
