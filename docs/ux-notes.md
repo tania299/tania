@@ -18,3 +18,5 @@
 
 - Keep components focused on a single responsibility.
 
+- Prefer neutral backgrounds and clear accents.
+
