@@ -20,3 +20,5 @@
 
 - Prefer neutral backgrounds and clear accents.
 
+- Make error states as clear as success states.
+
