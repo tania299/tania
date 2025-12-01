@@ -22,3 +22,5 @@
 
 - Make error states as clear as success states.
 
+- Always show where the user is in a flow.
+
