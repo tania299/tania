@@ -24,3 +24,5 @@
 
 - Always show where the user is in a flow.
 
+- Avoid surprising layout jumps.
+
