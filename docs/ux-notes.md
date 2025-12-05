@@ -26,3 +26,5 @@
 
 - Avoid surprising layout jumps.
 
+- Make primary actions visually stronger than secondary.
+
