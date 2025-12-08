@@ -30,3 +30,6 @@
 
 - Keep copy short, direct, and honest.
 
+
+Consider adding a CONTRIBUTING.md file to outline contribution guidelines and a CODE_OF_CONDUCT.md to foster a welcoming environment.
+
