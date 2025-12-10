@@ -37,3 +37,7 @@ Consider adding a CONTRIBUTING.md file to outline contribution guidelines and a 
 Consider adding a CI/CD pipeline for automated testing and deployment.
 Explore potential integrations with other tools like a project management system.
 
+
+Add detailed documentation for each public API endpoint.
+Consider implementing role-based access control (RBAC) for enhanced security.
+
