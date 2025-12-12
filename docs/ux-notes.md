@@ -45,3 +45,7 @@ Consider implementing role-based access control (RBAC) for enhanced security.
 *   Consider adding automated dependency vulnerability scanning.
 *   Implement a CI/CD pipeline for streamlined testing and deployment.
 
+
+Consider adding unit tests for critical logic.
+Explore CI/CD integration for automated builds and deployments.
+
