@@ -49,3 +49,7 @@ Consider implementing role-based access control (RBAC) for enhanced security.
 Consider adding unit tests for critical logic.
 Explore CI/CD integration for automated builds and deployments.
 
+
+*   Consider adding a CONTRIBUTING.md file to guide potential contributors.
+*   Implement automated testing (unit, integration) to ensure code quality and prevent regressions.
+
