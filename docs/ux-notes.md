@@ -53,3 +53,7 @@ Explore CI/CD integration for automated builds and deployments.
 *   Consider adding a CONTRIBUTING.md file to guide potential contributors.
 *   Implement automated testing (unit, integration) to ensure code quality and prevent regressions.
 
+
+*   Consider adding a changelog file to track updates.
+*   Include a CONTRIBUTING.md file outlining contribution guidelines.
+
