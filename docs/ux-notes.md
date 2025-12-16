@@ -61,3 +61,7 @@ Explore CI/CD integration for automated builds and deployments.
 - Consider a GitHub Actions workflow for automated testing and linting.
 - Explore integrating a CI/CD pipeline for streamlined deployments.
 
+
+Consider adding a CONTRIBUTING.md file to guide potential contributors.
+Implement a CI/CD pipeline for automated testing and deployment.
+
