@@ -65,3 +65,7 @@ Explore CI/CD integration for automated builds and deployments.
 Consider adding a CONTRIBUTING.md file to guide potential contributors.
 Implement a CI/CD pipeline for automated testing and deployment.
 
+
+*   Consider adding a CI/CD pipeline for automated testing and deployment.
+*   Explore potential for integrating with a cloud storage service for large data backups.
+
