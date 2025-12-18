@@ -69,3 +69,7 @@ Implement a CI/CD pipeline for automated testing and deployment.
 *   Consider adding a CI/CD pipeline for automated testing and deployment.
 *   Explore potential for integrating with a cloud storage service for large data backups.
 
+
+*   Consider a separate `docker-compose.yml` for development/testing environments to simplify setup.
+*   Implement a consistent commit message convention (e.g., Conventional Commits) for better changelog generation and automation.
+
