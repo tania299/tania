@@ -73,3 +73,7 @@ Implement a CI/CD pipeline for automated testing and deployment.
 *   Consider a separate `docker-compose.yml` for development/testing environments to simplify setup.
 *   Implement a consistent commit message convention (e.g., Conventional Commits) for better changelog generation and automation.
 
+
+Consider adding a README.md that explains the project's purpose, how to set it up, and how to use it.
+Explore unit testing for critical components to ensure code stability and prevent regressions.
+
