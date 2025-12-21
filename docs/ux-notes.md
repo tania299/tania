@@ -81,3 +81,7 @@ Explore unit testing for critical components to ensure code stability and preven
 Explore using a declarative approach for managing configurations.
 Consider implementing a robust logging and monitoring system.
 
+
+*   Consider adding a `CHANGELOG.md` file for tracking project updates and releases.
+*   Explore using GitHub Actions for automated testing, linting, and deployment.
+
