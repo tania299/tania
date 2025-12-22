@@ -85,3 +85,7 @@ Consider implementing a robust logging and monitoring system.
 *   Consider adding a `CHANGELOG.md` file for tracking project updates and releases.
 *   Explore using GitHub Actions for automated testing, linting, and deployment.
 
+
+*   Consider adding `pyproject.toml` for standardized dependency management and build configuration.
+*   Explore integration with a CI/CD pipeline (e.g., GitHub Actions, GitLab CI) for automated testing and deployment.
+
