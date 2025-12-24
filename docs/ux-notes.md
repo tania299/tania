@@ -89,3 +89,7 @@ Consider implementing a robust logging and monitoring system.
 *   Consider adding `pyproject.toml` for standardized dependency management and build configuration.
 *   Explore integration with a CI/CD pipeline (e.g., GitHub Actions, GitLab CI) for automated testing and deployment.
 
+
+- Consider adding a CI/CD pipeline for automated testing and deployment.
+- Document the project's architecture and key design decisions.
+
