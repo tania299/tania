@@ -101,3 +101,7 @@ Consider implementing a robust logging and monitoring system.
 *   Consider a modular design for easier integration of new models or features.
 *   Implement robust logging and error handling for production readiness.
 
+
+*   Consider adding CI/CD pipelines for automated testing and deployment.
+*   Explore a modular design for easier maintenance and scalability.
+
