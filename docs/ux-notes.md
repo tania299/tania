@@ -114,3 +114,7 @@ Add comprehensive documentation for each API endpoint, including request/respons
 
 Consider implementing a role-based access control (RBAC) system to manage user permissions and access levels within the repository.
 
+
+* Consider adding CI/CD pipelines for automated testing and deployment.
+* Implement a CONTRIBUTING.md file to guide potential contributors.
+
