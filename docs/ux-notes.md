@@ -118,3 +118,7 @@ Consider implementing a role-based access control (RBAC) system to manage user p
 * Consider adding CI/CD pipelines for automated testing and deployment.
 * Implement a CONTRIBUTING.md file to guide potential contributors.
 
+
+*   Consider adding documentation for setting up a development environment.
+*   Explore potential integrations with other popular data science tools or platforms.
+
