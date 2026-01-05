@@ -130,3 +130,7 @@ Consider implementing a role-based access control (RBAC) system to manage user p
 - Consider adding a CONTRIBUTING.md file to guide new contributors.
 - Explore the possibility of integrating automated testing with a CI/CD pipeline.
 
+
+- Consider adding a section for contributing guidelines.
+- Include a README.md file with a project overview and setup instructions.
+
