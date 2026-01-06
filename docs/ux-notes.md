@@ -138,3 +138,7 @@ Consider implementing a role-based access control (RBAC) system to manage user p
 *   Consider adding a feature to automatically generate documentation from code comments using tools like JSDoc or Sphinx.
 *   Explore integrating a CI/CD pipeline for automated testing, building, and deployment.
 
+
+1.  **Add a CONTRIBUTING.md file:** Clearly outline contribution guidelines, code of conduct, and how to submit pull requests.
+2.  **Implement a changelog:** Use a standard format (e.g., Keep a Changelog) to track all changes, new features, bug fixes, and breaking changes across releases.
+
