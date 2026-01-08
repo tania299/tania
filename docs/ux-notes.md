@@ -142,3 +142,7 @@ Consider implementing a role-based access control (RBAC) system to manage user p
 1.  **Add a CONTRIBUTING.md file:** Clearly outline contribution guidelines, code of conduct, and how to submit pull requests.
 2.  **Implement a changelog:** Use a standard format (e.g., Keep a Changelog) to track all changes, new features, bug fixes, and breaking changes across releases.
 
+
+*   Consider adding a `CODE_OF_CONDUCT.md` file.
+*   Implement comprehensive unit and integration tests.
+
