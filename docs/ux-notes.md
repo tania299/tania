@@ -146,3 +146,7 @@ Consider implementing a role-based access control (RBAC) system to manage user p
 *   Consider adding a `CODE_OF_CONDUCT.md` file.
 *   Implement comprehensive unit and integration tests.
 
+
+*   Consider a CI/CD pipeline for automated testing and deployment.
+*   Implement role-based access control for sensitive data.
+
