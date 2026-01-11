@@ -150,3 +150,7 @@ Consider implementing a role-based access control (RBAC) system to manage user p
 *   Consider a CI/CD pipeline for automated testing and deployment.
 *   Implement role-based access control for sensitive data.
 
+
+Consider adding a CONTRIBUTING.md file to outline contribution guidelines.
+Explore integrating a CI/CD pipeline for automated testing and deployment.
+
