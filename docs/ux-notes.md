@@ -154,3 +154,7 @@ Consider implementing a role-based access control (RBAC) system to manage user p
 Consider adding a CONTRIBUTING.md file to outline contribution guidelines.
 Explore integrating a CI/CD pipeline for automated testing and deployment.
 
+
+-  Consider adding a `contributing.md` file to guide potential contributors.
+-  Explore adding automated testing with GitHub Actions for continuous integration.
+
