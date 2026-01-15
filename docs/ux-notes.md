@@ -167,3 +167,7 @@ Explore integrating a CI/CD pipeline for automated testing and deployment.
 *   Consider adding a robust README with clear setup instructions, a project overview, and examples of usage.
 *   Explore implementing CI/CD pipelines for automated testing and deployment.
 
+
+*   **Deployment Strategy:** Consider automating deployment to a cloud provider (AWS, Azure, GCP) using CI/CD pipelines.
+*   **Security Best Practices:** Implement rate limiting, input validation, and secure credential management.
+
