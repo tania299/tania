@@ -171,3 +171,8 @@ Explore integrating a CI/CD pipeline for automated testing and deployment.
 *   **Deployment Strategy:** Consider automating deployment to a cloud provider (AWS, Azure, GCP) using CI/CD pipelines.
 *   **Security Best Practices:** Implement rate limiting, input validation, and secure credential management.
 
+
+Tania-bot: A modular chatbot framework for specialized tasks.
+
+Consider a plugin system for extending functionality (e.g., weather, news, calculations).
+
