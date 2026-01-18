@@ -176,3 +176,8 @@ Tania-bot: A modular chatbot framework for specialized tasks.
 
 Consider a plugin system for extending functionality (e.g., weather, news, calculations).
 
+
+Add a `CONTRIBUTING.md` file.
+
+Consider a CI/CD pipeline for automated testing and deployment.
+
