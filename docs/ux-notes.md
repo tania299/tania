@@ -181,3 +181,7 @@ Add a `CONTRIBUTING.md` file.
 
 Consider a CI/CD pipeline for automated testing and deployment.
 
+
+Consider adding automated accessibility checks with a linter.
+Explore integrating a static site generator for improved documentation hosting.
+
