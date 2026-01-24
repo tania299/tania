@@ -189,3 +189,8 @@ Explore integrating a static site generator for improved documentation hosting.
 Add a "contributing.md" file to outline contribution guidelines.
 Consider adding a README.md with a brief project description and setup instructions.
 
+
+**Note:** Consider adding comprehensive integration tests for the core functionalities.
+
+**Idea:** Explore abstracting common UI components for reusability across different modules.
+
