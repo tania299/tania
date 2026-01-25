@@ -202,3 +202,7 @@ Consider adding a README.md with a brief project description and setup instructi
 - Consider a monorepo structure for better code sharing and dependency management across different components or services.
 - Implement a robust CI/CD pipeline to automate testing, building, and deployment processes, ensuring rapid and reliable releases.
 
+
+* **Add comprehensive documentation for the `tania-api` module**, detailing its endpoints, request/response structures, and authentication methods.
+* **Consider implementing role-based access control (RBAC)** within the `tania-api` to manage permissions for different user types accessing sensitive data.
+
