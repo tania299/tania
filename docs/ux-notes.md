@@ -206,3 +206,8 @@ Consider adding a README.md with a brief project description and setup instructi
 * **Add comprehensive documentation for the `tania-api` module**, detailing its endpoints, request/response structures, and authentication methods.
 * **Consider implementing role-based access control (RBAC)** within the `tania-api` to manage permissions for different user types accessing sensitive data.
 
+
+Consider a README section for "Deployment" outlining common deployment targets (e.g., Netlify, Vercel, AWS S3/CloudFront) with brief instructions or links.
+
+Explore adding a "Contributing" guide to encourage community involvement and define submission standards.
+
